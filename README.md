@@ -1,8 +1,6 @@
 # Desafio-amigo-secreto
 Desenvolvido com os cursos de lógica de programação Alura.
 
-![image] 
- 
  <h2>🔖 Sobre</h2>
  <p>Requisito do curso Oracle Next Education - Alura, com o objetivo de criar uma aplicação web na qual usuários adicionam nomes em uma lista para realizar um sorteio.</p>
  
